@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-java.runtime.version=1.8
-maven.version=3.3.9
+<java.runtime.version=1.8>
+<maven.version=3.3.9>
 
 var http = require('http'),
     httpProxy = require('http-proxy');
